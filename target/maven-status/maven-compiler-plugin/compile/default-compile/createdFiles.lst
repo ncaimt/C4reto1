@@ -1,0 +1,5 @@
+com\rentaMaquina\maquinaria\app\entities\User.class
+com\rentaMaquina\maquinaria\app\controllers\UserController.class
+com\rentaMaquina\maquinaria\app\services\UserService.class
+com\rentaMaquina\maquinaria\MaquinariaApplication.class
+com\rentaMaquina\maquinaria\app\repositories\UserRepository.class
